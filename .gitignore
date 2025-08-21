@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+
+# FastAPI/Backend
+backend/data/*.ndjson
+
+# Node/React/Frontend
+node_modules/
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+.cache/
+frontend/.cache/
+# mac
